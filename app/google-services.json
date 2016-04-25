@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_id": "serverwork-2cfdc",
+    "project_number": "257383750890",
+    "name": "ServerWork"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257383750890:android:c08292f43ead5c4e",
+        "client_id": "android:com.nishant.serverwork",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.nishant.serverwork",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
